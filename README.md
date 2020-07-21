@@ -10,7 +10,9 @@ DLInjector usage a very simple.
 
 ![Usage-DLInjector](https://i.imgur.com/EBhT46S.png)
 
-Firstly, enter the target process name with exe (chrome.exe, explorer.exe). And enter the to be injected DLL path (C:\malwDll.dll).
+Firstly, enter the target process name with exe (chrome.exe, explorer.exe). 
+
+And enter the to be injected DLL path (C:\malwDll.dll).
 
 Example Injection Process:
 
